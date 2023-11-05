@@ -1,7 +1,6 @@
 # Currently studying CS at [UNIVEM](https://www.univem.edu.br/home)
 
-💻 Linux enthusiast\
-📖 Bookworm
+💻 Computer Science\
 
 <div align="center">
 
